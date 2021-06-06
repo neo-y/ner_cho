@@ -1,5 +1,5 @@
 # ner_cho
-Submission for the course Computational Models for Named Entity Recognition at the University of Tübingen
+Submission for the course Computational Models for Named Entity Recognition at the University of Tübingen  
 
 
 Course: Computational Models for Named Entity Recognition
